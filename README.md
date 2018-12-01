@@ -1,8 +1,6 @@
 # FinalProject
 # Battle Of Neighborhoods (Seattle, Washington)
-![Alt Text](https://lovelace-media.imgix.net/uploads/5/99acf480-805d-0131-9876-1271687f4f5d.jpg
-https://lovelace-media.imgix.net/uploads/5/99acf480-805d-0131-9876-1271687f4f5d.jpg
-)
+![alt text](https://lovelace-media.imgix.net/uploads/5/99acf480-805d-0131-9876-1271687f4f5d.jpg)
 
 Usually people tend to explore the places before moving to a new country, state, city or place for their work or to start a new life and that involves so many factors including neighborhood analysis. That calls for a search algorithm that usually returns the requested features such as population rate, median house price, school ratings, crime rates, weather conditions, recreational facilities etc. It’d be nice to have a hassle-free application that could spit out an extensive analysis of all these features for a neighborhood or a comparative analysis between neighborhoods with just sending out the names of the neighborhoods
 
